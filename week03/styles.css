@@ -91,7 +91,7 @@ global h2 {
 global h3 {
   background-image: url("header-star-1.gif");
   background-repeat: no-repeat;
-  padding-left: 5px;
+  padding-left: 20px;
 }
 
 global blockquote {
